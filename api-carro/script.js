@@ -1,4 +1,4 @@
-let url = "./ceps.json"
+let url = "./cars.json"
 
     let placa = document.getElementById("placa")
     let marca = document.getElementById("marca")
@@ -11,7 +11,7 @@ function busca(){
     fetch(url)
         .then(res => res.json())
         .then(data => {
-            for(var cep of data.ceps){
+            for(var cep of data.cars){
                 if(placa.value == cep.placa){
                     cor.value = cep.cor
                     ano.value = cep.ano
