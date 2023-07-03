@@ -1,0 +1,77 @@
+{
+    "ceps": [
+        {
+            "placa": "ABC12D4",
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "ano": 2020,
+            "cor": "Azul"
+        },
+        {
+            "placa": "EFG12H4",
+            "marca": "Volkswagen",
+            "modelo": "Gol",
+            "ano": 2018,
+            "cor": "Vermelho"
+        },
+        {
+            "placa": "IJK12L4",
+            "marca": "Ford",
+            "modelo": "Fiesta",
+            "ano": 2015,
+            "cor": "Preto"
+        },
+        {
+            "placa": "MNO12P4",
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "ano": 2019,
+            "cor": "Branco"
+        },
+        {
+            "placa": "QRS12T4",
+            "marca": "Honda",
+            "modelo": "Civic",
+            "ano": 2017,
+            "cor": "Prata"
+        },
+        {
+            "placa": "UVW12X4",
+            "marca": "Hyundai",
+            "modelo": "HB20",
+            "ano": 2022,
+            "cor": "Cinza"
+        },
+        {
+            "placa": "YZA12B4",
+            "marca": "Fiat",
+            "modelo": "Palio",
+            "ano": 2016,
+            "cor": "Amarelo"
+        },
+        {
+            "placa": "CDE12F4",
+            "marca": "Renault",
+            "modelo": "Sandero",
+            "ano": 2021,
+            "cor": "Verde"
+        },
+        {
+            "placa": "GHI12J4",
+            "marca": "Nissan",
+            "modelo": "Versa",
+            "ano": 2014,
+            "cor": "Rosa"
+        },
+        {
+            "placa": "KLM12N4",
+            "marca": "Chevrolet",
+            "modelo": "Cruze",
+            "ano": 2023,
+            "cor": "Laranja"
+        }
+    ]
+    
+    }
+    
+    
